@@ -1,3 +1,4 @@
+from exceptions import NumeroDebeSerPositivo
 from exceptions import ingrese_numero
 
 def main():
